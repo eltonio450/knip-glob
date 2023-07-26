@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "projects": {
+      "workspace": {
+        "root": "."
+      },
+      "1": {
+        "root": "packages/1"
+      },
+      "2": {
+        "root": "packages/2"
+      }
+    }
+  }
+  
